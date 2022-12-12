@@ -1,0 +1,22 @@
+.table > thead > tr,
+.table > tbody > tr {
+  border-bottom: 2px solid blue;
+  border-top: 2px solid blue;
+}
+.table > tbody > td {
+  max-width: 40px;
+}
+/* .container-fluid {
+  max-width: 120%;
+} */
+
+.table-extra {
+  margin-left: -1114px;
+  font-weight: 700;
+  margin-right: 0px;
+}
+
+hr {
+  background-color: #0000ff;
+  height: 3px;
+}
